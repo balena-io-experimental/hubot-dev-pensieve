@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Integration Ecosystem</title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Ubuntu+Mono">
+	</head>
+	<body>
+		<div id="pensieve"></div>
+		<script>
+			var script = document.createElement('script');
+			script.onload = function () {
+				Pensieve({
+					schema: 'schema.yaml',
+					contentPath: 'content',
+					repo: {
+						name: 'hubot-dev-pensieve',
+						account: 'resin-io-playground',
+						file: 'document.yaml',
+						ref: 'master'
+					}
+				});
+			};
+			script.src = 'https://resin-production-downloads.s3.amazonaws.com/pensieve/latest/pensieve.js?' + Date.now()
+			document.head.appendChild(script);
+		</script>
+	</body>
+</html>

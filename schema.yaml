@@ -1,0 +1,16 @@
+- name: subject
+  type: Short Text
+- name: body
+  type: Text
+- name: thread
+  type: Short Text
+- name: hashtags
+  type: Short Text
+- name: flow
+  type: Short Text
+- name: opened
+  type: Date
+- name: reporter
+  type: Short Text
+- name: mentions
+  type: Short Text
