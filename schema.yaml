@@ -4,7 +4,7 @@
   type: Text
 - name: thread
   type: Short Text
-- name: hashtags
+- name: tags
   type: Short Text
 - name: flow
   type: Short Text
