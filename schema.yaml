@@ -2,11 +2,9 @@
   type: Case Insensitive Text
 - name: body
   type: Text
-- name: thread
+- name: url
   type: Short Text
 - name: tags
-  type: Short Text
-- name: flow
   type: Short Text
 - name: opened
   type: Date
