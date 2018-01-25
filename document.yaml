@@ -6,7 +6,7 @@ content:
     opened: 'Jan 25, 2018 5:15 PM'
     reporter: sqweelygig
     mentions: ''
-    tags: '\#tag'
+    tags: '\\#tag'
     PS_UUID: 58930170-01f3-11e8-ba56-77c873f9eb10
   - title: '#tag'
     body: '#tag'
