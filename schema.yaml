@@ -1,3 +1,5 @@
+- name: title
+  type: Case Insensitive Text
 - name: subject
   type: Short Text
 - name: body
