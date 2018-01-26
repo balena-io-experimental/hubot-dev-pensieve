@@ -2,7 +2,7 @@
   type: Case Insensitive Text
 - name: body
   type: Text
-- name: url
+- name: thread
   type: Short Text
 - name: tags
   type: Short Text
