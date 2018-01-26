@@ -1,4 +1,11 @@
 content:
+  - title: '#tag just title'
+    thread: >-
+      [https://www.flowdock.com/app/rulemotion/testing/threads/NCI_6UWWguNRDu1q0NlR0Gt4nq8](https://www.flowdock.com/app/rulemotion/testing/threads/NCI_6UWWguNRDu1q0NlR0Gt4nq8)
+    opened: 'Jan 26, 2018 1:33 PM'
+    reporter: '@sqweelygig'
+    tags: '\#tag'
+    PS_UUID: 9095af50-029d-11e8-880a-81bffa853779
   - title: '\#tag this is actually a full entry'
     body: |-
       @sqweelygig
