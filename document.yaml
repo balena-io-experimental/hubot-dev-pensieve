@@ -1,4 +1,16 @@
 content:
+  - title: '\#tag this is actually a full entry'
+    body: |-
+      @sqweelygig
+
+      body
+    thread: >-
+      [https://www.flowdock.com/app/rulemotion/testing/threads/NCI_6UWWguNRDu1q0NlR0Gt4nq8](https://www.flowdock.com/app/rulemotion/testing/threads/NCI_6UWWguNRDu1q0NlR0Gt4nq8)
+    opened: 'Jan 26, 2018 1:30 PM'
+    reporter: sqweelygig
+    mentions: '@sqweelygig'
+    tags: '\#tag'
+    PS_UUID: 1d465630-029d-11e8-a166-57f1638154bc
   - title: '\#tag another full entry'
     thread: >-
       [https://www.flowdock.com/app/rulemotion/testing/threads/NCI_6UWWguNRDu1q0NlR0Gt4nq8](https://www.flowdock.com/app/rulemotion/testing/threads/NCI_6UWWguNRDu1q0NlR0Gt4nq8)
