@@ -1,4 +1,11 @@
 content:
+  - title: 'this is a test entry #tag'
+    thread: >-
+      [https://www.flowdock.com/app/rulemotion/testing/threads/r9ir3yRMGPtnv9Z9LG5cDzp44in](https://www.flowdock.com/app/rulemotion/testing/threads/r9ir3yRMGPtnv9Z9LG5cDzp44in)
+    opened: 'Jan 29, 2018 10:19 AM'
+    reporter: '@sqweelygig'
+    tags: '\#tag'
+    PS_UUID: ef4f3830-04dd-11e8-8848-9daacee1d4f1
   - title: '#tag this is a test pensieve entry'
     thread: >-
       [https://www.flowdock.com/app/rulemotion/testing/threads/BvrDtLAnLLqCSX9irL9pZWYAoQv](https://www.flowdock.com/app/rulemotion/testing/threads/BvrDtLAnLLqCSX9irL9pZWYAoQv)
