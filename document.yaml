@@ -1,4 +1,11 @@
 content:
+  - title: '#tag this repo then!'
+    thread: >-
+      [https://www.flowdock.com/app/rulemotion/testing/threads/D1rUX9bxaUtc0xqoId-ANw4eFdy](https://www.flowdock.com/app/rulemotion/testing/threads/D1rUX9bxaUtc0xqoId-ANw4eFdy)
+    opened: '2018-01-31'
+    reporter: '@sqweelygig'
+    tags: '\#tag'
+    PS_UUID: 7989ec30-0681-11e8-89c7-bb38011d12b5
   - title: '#tag now?'
     thread: >-
       [https://www.flowdock.com/app/rulemotion/testing/threads/LdBhps2RTz--8dvxTq0ZuErdokb](https://www.flowdock.com/app/rulemotion/testing/threads/LdBhps2RTz--8dvxTq0ZuErdokb)
