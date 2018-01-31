@@ -1,6 +1,7 @@
 content:
   - body: testing empty title
     new field 1: ''
+    '': oo
     PS_UUID: 0eb85010-0684-11e8-8e89-45a0cacaeb09
   - title: '#tag this repo then!'
     thread: >-
