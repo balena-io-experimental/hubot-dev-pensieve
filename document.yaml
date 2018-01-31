@@ -1,4 +1,11 @@
 content:
+  - title: '#tag date string?'
+    thread: >-
+      [https://www.flowdock.com/app/rulemotion/testing/threads/LdBhps2RTz--8dvxTq0ZuErdokb](https://www.flowdock.com/app/rulemotion/testing/threads/LdBhps2RTz--8dvxTq0ZuErdokb)
+    opened: '2018-01-31T11:52:27+00:00'
+    reporter: '@sqweelygig'
+    tags: '\#tag'
+    PS_UUID: 3568a810-067d-11e8-a622-f5eaa783b7a0
   - title: '#tag test'
     thread: >-
       [https://www.flowdock.com/app/rulemotion/testing/threads/LdBhps2RTz--8dvxTq0ZuErdokb](https://www.flowdock.com/app/rulemotion/testing/threads/LdBhps2RTz--8dvxTq0ZuErdokb)
