@@ -5,6 +5,13 @@ content:
     opened: 'Jan 31, 2018 11:47 AM'
     reporter: '@sqweelygig'
     tags: '\#tag'
+    PS_UUID: 8f05e640-067c-11e8-91c8-4741079f0b12
+  - title: '#tag test'
+    thread: >-
+      [https://www.flowdock.com/app/rulemotion/testing/threads/LdBhps2RTz--8dvxTq0ZuErdokb](https://www.flowdock.com/app/rulemotion/testing/threads/LdBhps2RTz--8dvxTq0ZuErdokb)
+    opened: 'Jan 31, 2018 11:47 AM'
+    reporter: '@sqweelygig'
+    tags: '\#tag'
     PS_UUID: 8015bde0-067c-11e8-944b-974537bf964d
   - title: '#tag this'
     thread: >-
