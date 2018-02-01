@@ -3,12 +3,12 @@ content:
       >-
 
 
-
+      **bold** or _italic_  ~~strike~~
        -
     body: |-
       a
       b
-
+      **bold** or _italic_  ~~strike~~
       c
 
       d
