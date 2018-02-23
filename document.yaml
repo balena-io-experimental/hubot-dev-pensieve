@@ -6,23 +6,6 @@ content:
     reporter: '@sqweelygig'
     tags: '\#tag'
     PS_UUID: 0c821170-1893-11e8-8866-1d83b947404e
-  - title: |-
-      >-
-
-
-      **bold** or _italic_  ~~strike~~
-       -
-    body: |-
-      a
-      b
-      **bold** or _italic_  ~~strike~~
-      c
-
-      **_bold and italic_**
-
-
-      d
-    PS_UUID: d2e827b0-0753-11e8-9989-51e557a6a8c5
   - PS_UUID: 9cd27b80-0753-11e8-9989-51e557a6a8c5
   - '': ''
     PS_UUID: 8ebd34b0-0751-11e8-9989-51e557a6a8c5
