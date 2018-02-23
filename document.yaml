@@ -1,4 +1,11 @@
 content:
+  - title: '#tag this is a test message'
+    thread: >-
+      [https://www.flowdock.com/app/rulemotion/testing/threads/yxw5QMdl5nJG-B_AXpcM5n89nCk](https://www.flowdock.com/app/rulemotion/testing/threads/yxw5QMdl5nJG-B_AXpcM5n89nCk)
+    opened: '2018-02-23'
+    reporter: '@sqweelygig'
+    tags: '\#tag'
+    PS_UUID: 0c821170-1893-11e8-8866-1d83b947404e
   - title: |-
       >-
 
