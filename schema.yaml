@@ -12,3 +12,5 @@
   type: Short Text
 - name: mentions
   type: Short Text
+- name: archived
+  type: Boolean
