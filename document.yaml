@@ -34,6 +34,7 @@ content:
     opened: '2018-01-31'
     reporter: '@sqweelygig'
     tags: '\#tag'
+    archived: true
     PS_UUID: 817bc110-067d-11e8-8582-ff286d395fef
   - title: adsf
     opened: '2018-01-31'
