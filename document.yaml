@@ -5,6 +5,7 @@ content:
     opened: '2018-02-23'
     reporter: '@sqweelygig'
     tags: '\#tag'
+    archived: true
     PS_UUID: 08433170-18a2-11e8-a32e-c1ef1e9ef9d3
   - title: '#tag this is a test message'
     thread: >-
